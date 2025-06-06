@@ -1,0 +1,189 @@
+mat_group,mat_type,mean,median,analysis_type
+Acoustic ceilings,Acoustic ceiling tile fiber,0.5645847730003779,0.0677115710260517,Material Intensity - No Filter - Residential: Single-family
+Acoustic ceilings,Suspension assembly,0.06496765169890845,0.026926386227995466,Material Intensity - No Filter - Residential: Single-family
+Adhesives and sealants,Adhesives and sealants,0.16144843116382698,0.15940017195393086,Material Intensity - No Filter - Residential: Single-family
+Air and vapor barriers,Air and vapor barriers,0.16165529186730052,0.05629809619003919,Material Intensity - No Filter - Residential: Single-family
+Aluminum,Aluminum - other,0.886963895434567,0.06447004178938992,Material Intensity - No Filter - Residential: Single-family
+Aluminum,Extrusion,0.7695757838235638,0.8397848173208023,Material Intensity - No Filter - Residential: Single-family
+Aluminum,Aluminum sheet,0.6491743477616079,0.017447398656639652,Material Intensity - No Filter - Residential: Single-family
+Applied fireproofing,Spray applied cementitious,0.6756930151645917,0.10112960512896664,Material Intensity - No Filter - Residential: Single-family
+Applied fireproofing,Intumescent,0.012744848917560704,0.005290315638375843,Material Intensity - No Filter - Residential: Single-family
+Cladding,Stucco finish,4.003959705696956,2.9786950094266076,Material Intensity - No Filter - Residential: Single-family
+Cladding,Architectural fiber cement panel,1.2645382378760253,1.4091715307456265,Material Intensity - No Filter - Residential: Single-family
+Cladding,Roll formed metal panel steel,0.6000000893126551,0.037283227693139506,Material Intensity - No Filter - Residential: Single-family
+Cladding,Roll formed metal panel aluminum,0.23889127174613634,0.30701816254725717,Material Intensity - No Filter - Residential: Single-family
+Cladding,Aluminum composite panel ACM,0.10567756203643947,0.11875754499188497,Material Intensity - No Filter - Residential: Single-family
+Cladding,Insulated metal panel IMP,0.0521481056754211,0.06701967580381857,Material Intensity - No Filter - Residential: Single-family
+Coatings,Paint,0.710925607235445,0.7533722011083849,Material Intensity - No Filter - Residential: Single-family
+Coatings,Coatings - other,0.027669935736678822,0.023565597877938896,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix unknown,143.28205501645465,147.0584259534804,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 5000,69.62371061188988,74.89932261068084,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 6000,64.07286304981976,79.1490856002411,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix LW 5000,42.63435902112711,19.125589336760534,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 4000,34.442772984685,34.74541330099218,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix LW 3000,22.518761016739198,1.1160691587353695,Material Intensity - No Filter - Residential: Single-family
+Concrete,Concrete - other,19.173028318429832,11.686411355849932,Material Intensity - No Filter - Residential: Single-family
+Concrete,GFRC general,13.44390624393507,14.746422974064156,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix LW 4000,12.37374228163515,9.38644508452921,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 8000,10.670420320427674,0.9716790475972901,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 3000,10.253463360596985,10.790338163673125,Material Intensity - No Filter - Residential: Single-family
+Concrete,Precast,0.8903812342033042,1.0722700077713452,Material Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 2500,0.0037986940938258434,0.004166731665650091,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Wood or composite door,2.726897042526719,0.48576804833252263,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Steel door,0.24659824865771995,0.1555768032448352,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Fiberglass door,0.21352918802457993,0.1305772397987702,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Doors and frames - other,0.11792257830248357,0.09661890050362329,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Wood door frame,0.09050081276285356,0.039723780624391816,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Aluminum door,0.034527439811340196,0.017588065120889756,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Steel door frame,0.013733789549545333,0.007156430312636802,Material Intensity - No Filter - Residential: Single-family
+Doors and frames,Aluminum door frame,0.001887790626679492,0.0011795223605206649,Material Intensity - No Filter - Residential: Single-family
+Flooring and tile,Resilient flooring vinyl,1.01363738979389,0.41083646612373886,Material Intensity - No Filter - Residential: Single-family
+Flooring and tile,Ceramic tile,0.2931994609370103,0.0716909803985068,Material Intensity - No Filter - Residential: Single-family
+Flooring and tile,Carpet,0.2791540120529009,0.11021130862264131,Material Intensity - No Filter - Residential: Single-family
+Flooring and tile,Flooring and tile - other,0.004768767871483469,0.0006176146934196704,Material Intensity - No Filter - Residential: Single-family
+Glazing,Insulated glass unit IGU,2.08534578788631,1.9611838448717631,Material Intensity - No Filter - Residential: Single-family
+Glazing,Glazing - other,0.14389387052242847,0.109597120240048,Material Intensity - No Filter - Residential: Single-family
+Gypsum,Gypsum board,66.24476317216192,69.6029468951496,Material Intensity - No Filter - Residential: Single-family
+Gypsum,Glass mat gypsum board,2.964002090641958,1.3169069415336991,Material Intensity - No Filter - Residential: Single-family
+Insulation,Mineral wool high density,1.140585860914966,0.3292606067821973,Material Intensity - No Filter - Residential: Single-family
+Insulation,Fiberglass blanket,0.7233967793942114,0.834833328217767,Material Intensity - No Filter - Residential: Single-family
+Insulation,Loose-fill cellulose,0.6120704491940158,0.7071888439228275,Material Intensity - No Filter - Residential: Single-family
+Insulation,Polyisocyanurate PIR,0.5030245293249578,0.569515719151911,Material Intensity - No Filter - Residential: Single-family
+Insulation,Extruded polystyrene XPS,0.2515382900100825,0.2949968345366134,Material Intensity - No Filter - Residential: Single-family
+Insulation,Expanded polystyrene EPS,0.24467342774808187,0.2826967365205273,Material Intensity - No Filter - Residential: Single-family
+Insulation,Closed cell spray polyurethane foam,0.11093609935351846,0.012403658532268963,Material Intensity - No Filter - Residential: Single-family
+Insulation,Mineral wool low density,0.1095387938966991,0.028069157761491898,Material Intensity - No Filter - Residential: Single-family
+Masonry,Brick clay,10.723563519928016,15.137516426968904,Material Intensity - No Filter - Residential: Single-family
+Masonry,CMU,6.509885127257963,5.840217155363827,Material Intensity - No Filter - Residential: Single-family
+Masonry,Mortar and grout,5.349788828344736,4.291933084333936,Material Intensity - No Filter - Residential: Single-family
+Other,Other,0.30288520524557383,0.29877396214931695,Material Intensity - No Filter - Residential: Single-family
+Other metals,Fasteners,0.033604672060143434,0.02237197505620889,Material Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Modified bitumen,0.5865354041850671,0.5735753905216003,Material Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Asphalt shingles,0.5083502930339279,0.5443580822636093,Material Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Built up roofing,0.37770861722099713,0.4044627127049558,Material Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,TPO,0.08166727732623907,0.05723709273886864,Material Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Roofing and waterproofing - other,0.07370906889611707,0.059531210219118995,Material Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,EPDM,0.001935179438626108,0.002072253291641496,Material Intensity - No Filter - Residential: Single-family
+Steel,Rebar and reinforcement,15.393088992159255,12.27313641097919,Material Intensity - No Filter - Residential: Single-family
+Steel,Hollow structural sections HSS,1.2761565731088285,0.6027469281639608,Material Intensity - No Filter - Residential: Single-family
+Steel,Steel - other,1.0935326397401082,1.2572294399583839,Material Intensity - No Filter - Residential: Single-family
+Steel,Cold formed steel framing,1.0130232119710785,0.8896056324358285,Material Intensity - No Filter - Residential: Single-family
+Steel,Hot-rolled sections,0.891045944506904,0.3902908465803725,Material Intensity - No Filter - Residential: Single-family
+Steel,Decking,0.4629048824376752,0.3044810044721046,Material Intensity - No Filter - Residential: Single-family
+Steel,Plate,0.26219838312801697,0.12971994488756702,Material Intensity - No Filter - Residential: Single-family
+Steel,Steel sheet,0.1946254219322785,0.2502482690962973,Material Intensity - No Filter - Residential: Single-family
+Steel,Open web joists,0.014905524277202322,0.019046049068479873,Material Intensity - No Filter - Residential: Single-family
+Synthetic composites,Synthetic composites,0.20027534516475262,0.04318842616227015,Material Intensity - No Filter - Residential: Single-family
+Wall coverings,Wall coverings,0.03230189555782445,0.01911934899504176,Material Intensity - No Filter - Residential: Single-family
+Windows and frames,Fiberglass framed window,0.7751666414882422,0.4378467134435564,Material Intensity - No Filter - Residential: Single-family
+Windows and frames,Vinyl framed window,0.10697212187245622,0.06754030211807613,Material Intensity - No Filter - Residential: Single-family
+Windows and frames,Aluminum storefront or curtain wall,0.06479407947553495,0.048060432494909454,Material Intensity - No Filter - Residential: Single-family
+Windows and frames,Aluminum framed window,0.02584985791936078,0.005205188663041826,Material Intensity - No Filter - Residential: Single-family
+Windows and frames,Steel framed window,0.004429595016517111,0.0024088970070328375,Material Intensity - No Filter - Residential: Single-family
+Windows and frames,Windows and frames - other,8.671001982375498e-05,4.715453815853248e-05,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Softwood framing,9.240163749881468,9.295135979604893,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Softwood plywood,7.046220597963718,8.167906240347156,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Oriented strand board OSB,3.8552642513143196,3.6028472299271974,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Wood I joists,3.4362361593231436,3.785992105888874,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Laminated strand lumber LSL,2.2221724296760814,0.2795758198209718,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Heavy timber framing,1.2776618338808554,1.3745065028000585,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Laminated veneer lumber LVL,0.9944244251698856,0.6560042556071076,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Medium density fiberboard MDF,0.6658591725381717,0.9223909217796116,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Cross laminated timber CLT,0.4765241774380205,0.15407426564097557,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Wood and composites - other,0.3580574880921236,0.04737146731317389,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Glue laminated timber GLT,0.23530226018281294,0.25838251233485154,Material Intensity - No Filter - Residential: Single-family
+Wood and composites,Hardwood,0.21624747449625906,0.04558624111276863,Material Intensity - No Filter - Residential: Single-family
+Acoustic ceilings,Acoustic ceiling tile fiber,0.7566936951533951,0.09208773659543032,GWP Intensity - No Filter - Residential: Single-family
+Acoustic ceilings,Suspension assembly,0.1547754929481192,0.06543111853402898,GWP Intensity - No Filter - Residential: Single-family
+Adhesives and sealants,Adhesives and sealants,0.2735273780206483,0.20301871854117515,GWP Intensity - No Filter - Residential: Single-family
+Air and vapor barriers,Air and vapor barriers,0.2613598884944591,0.08352725218062367,GWP Intensity - No Filter - Residential: Single-family
+Aluminum,Extrusion,6.279345501815435,6.6265338156696725,GWP Intensity - No Filter - Residential: Single-family
+Aluminum,Aluminum - other,4.9944989585818105,0.16985493019891237,GWP Intensity - No Filter - Residential: Single-family
+Aluminum,Aluminum sheet,3.7573291421293726,0.10981785724399552,GWP Intensity - No Filter - Residential: Single-family
+Applied fireproofing,Spray applied cementitious,0.7590251510804242,0.10869912685408363,GWP Intensity - No Filter - Residential: Single-family
+Applied fireproofing,Intumescent,0.031772917770436136,0.012619582820686783,GWP Intensity - No Filter - Residential: Single-family
+Cladding,Stucco finish,1.8306838345773235,1.0402943797214346,GWP Intensity - No Filter - Residential: Single-family
+Cladding,Roll formed metal panel steel,1.3162670864379054,0.06333796783709995,GWP Intensity - No Filter - Residential: Single-family
+Cladding,Roll formed metal panel aluminum,0.848220589490436,0.8566151932083624,GWP Intensity - No Filter - Residential: Single-family
+Cladding,Architectural fiber cement panel,0.7921763715061486,0.7159159747452625,GWP Intensity - No Filter - Residential: Single-family
+Cladding,Aluminum composite panel ACM,0.7795274956043333,0.6883717526298021,GWP Intensity - No Filter - Residential: Single-family
+Cladding,Insulated metal panel IMP,0.1027748702238252,0.10379200458531086,GWP Intensity - No Filter - Residential: Single-family
+Coatings,Paint,1.6606406414977308,1.6997596525165999,GWP Intensity - No Filter - Residential: Single-family
+Coatings,Coatings - other,0.28303089577647716,0.24864559897735602,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix unknown,21.496779866538052,26.1887766642283,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix LW 5000,13.785426585537293,5.1978476605813215,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 5000,12.584756459605844,15.026127242231883,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 6000,12.548697689537795,16.29797981903524,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix LW 3000,6.000389120695716,0.4432821363661477,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 4000,5.500396729139165,5.740181323664773,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix LW 4000,3.33377718825481,3.1553476053208294,GWP Intensity - No Filter - Residential: Single-family
+Concrete,GFRC general,3.078514983751003,3.7039175923120546,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Concrete - other,3.0345051012625324,1.7323046342272144,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 8000,2.680992574424344,0.2677908626972278,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 3000,1.4704635968671091,1.558858835287985,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Precast,0.1323090543021816,0.17165261447152544,GWP Intensity - No Filter - Residential: Single-family
+Concrete,Ready mix NW 2500,0.0004998792704691797,0.0006014301160447639,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Wood or composite door,1.5769744954598917,0.277236674134704,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Doors and frames - other,0.833022946347742,1.0494340973962137,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Steel door,0.7120820612039039,0.5094781936625522,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Wood door frame,0.43128112241491134,0.27652432395382925,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Aluminum door,0.20569069458199477,0.1182301292131476,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Fiberglass door,0.14135644289603175,0.1262701331163308,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Steel door frame,0.04090518631210337,0.03113574260523447,GWP Intensity - No Filter - Residential: Single-family
+Doors and frames,Aluminum door frame,0.017890281390485624,0.016328425884091967,GWP Intensity - No Filter - Residential: Single-family
+Flooring and tile,Resilient flooring vinyl,1.759624568434672,0.1156305681787187,GWP Intensity - No Filter - Residential: Single-family
+Flooring and tile,Carpet,1.1787607919483178,0.07052030316127497,GWP Intensity - No Filter - Residential: Single-family
+Flooring and tile,Ceramic tile,0.07040686464019275,0.0038308081192508963,GWP Intensity - No Filter - Residential: Single-family
+Flooring and tile,Flooring and tile - other,0.014044359523318133,0.0004348876895594331,GWP Intensity - No Filter - Residential: Single-family
+Glazing,Insulated glass unit IGU,2.7380147856335584,3.174141485575787,GWP Intensity - No Filter - Residential: Single-family
+Glazing,Glazing - other,0.45879492594313404,0.18313383339463024,GWP Intensity - No Filter - Residential: Single-family
+Gypsum,Gypsum board,13.873472051632513,14.865686958820916,GWP Intensity - No Filter - Residential: Single-family
+Gypsum,Glass mat gypsum board,1.3679622849039044,0.6198195901052054,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Extruded polystyrene XPS,12.316312730290896,7.303135521651423,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Mineral wool high density,1.4955180936523644,0.46179973815011827,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Fiberglass blanket,1.4129776630833357,1.2107719577806948,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Polyisocyanurate PIR,1.3637869152288293,1.2145415871371308,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Expanded polystyrene EPS,0.7527943222707272,0.7198881638579748,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Loose-fill cellulose,0.36809278583785654,0.35200270762786734,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Closed cell spray polyurethane foam,0.3143214591231204,0.030505185691705027,GWP Intensity - No Filter - Residential: Single-family
+Insulation,Mineral wool low density,0.15347436238605167,0.032550073532927826,GWP Intensity - No Filter - Residential: Single-family
+Masonry,Brick clay,2.8509780933373707,2.9784139154151013,GWP Intensity - No Filter - Residential: Single-family
+Masonry,Mortar and grout,1.0030085048480606,0.7226581028945858,GWP Intensity - No Filter - Residential: Single-family
+Masonry,CMU,0.7030504437638068,0.44532758796330457,GWP Intensity - No Filter - Residential: Single-family
+Other,Other,0.8107653675134342,0.820926379779267,GWP Intensity - No Filter - Residential: Single-family
+Other metals,Fasteners,0.17674407679636273,0.09888329758341373,GWP Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Modified bitumen,0.5400088855237446,0.5128383155855997,GWP Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,TPO,0.31833356070084107,0.22549225402412956,GWP Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Built up roofing,0.2584032823367669,0.27566089504726626,GWP Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Asphalt shingles,0.25117147853351357,0.2679461110430409,GWP Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,Roofing and waterproofing - other,0.12428191654039827,0.09569237400182169,GWP Intensity - No Filter - Residential: Single-family
+Roofing and waterproofing,EPDM,0.007519267462229392,0.008021446089978778,GWP Intensity - No Filter - Residential: Single-family
+Steel,Rebar and reinforcement,23.286071981416864,17.422467733840143,GWP Intensity - No Filter - Residential: Single-family
+Steel,Hollow structural sections HSS,3.0652184284714488,1.264555651116202,GWP Intensity - No Filter - Residential: Single-family
+Steel,Steel - other,2.757663632224349,2.5755671886985625,GWP Intensity - No Filter - Residential: Single-family
+Steel,Cold formed steel framing,2.3839952008724703,1.7656169342600763,GWP Intensity - No Filter - Residential: Single-family
+Steel,Decking,1.1411834810006019,0.5758766014336621,GWP Intensity - No Filter - Residential: Single-family
+Steel,Hot-rolled sections,1.0595183243755368,0.5590657779814198,GWP Intensity - No Filter - Residential: Single-family
+Steel,Steel sheet,0.46959059714211493,0.5093064477029204,GWP Intensity - No Filter - Residential: Single-family
+Steel,Plate,0.4166384389436463,0.2618168620798496,GWP Intensity - No Filter - Residential: Single-family
+Steel,Open web joists,0.02029706704730152,0.02276768752036594,GWP Intensity - No Filter - Residential: Single-family
+Synthetic composites,Synthetic composites,0.45304050629299775,0.150872158642176,GWP Intensity - No Filter - Residential: Single-family
+Wall coverings,Wall coverings,0.01824211228505313,0.01919758029226499,GWP Intensity - No Filter - Residential: Single-family
+Windows and frames,Fiberglass framed window,1.3726497295271238,0.934792859939038,GWP Intensity - No Filter - Residential: Single-family
+Windows and frames,Aluminum storefront or curtain wall,0.4586017378407452,0.2753230497640319,GWP Intensity - No Filter - Residential: Single-family
+Windows and frames,Vinyl framed window,0.3062936609451145,0.2527446497906865,GWP Intensity - No Filter - Residential: Single-family
+Windows and frames,Aluminum framed window,0.2064593443789664,0.06531460195051443,GWP Intensity - No Filter - Residential: Single-family
+Windows and frames,Steel framed window,0.02077596219749442,0.014766138251785419,GWP Intensity - No Filter - Residential: Single-family
+Windows and frames,Windows and frames - other,0.0006892469061090329,0.0004898697354411222,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Softwood plywood,1.815280327623236,2.257518254074082,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Wood I joists,1.401569790042317,1.625188414547936,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Oriented strand board OSB,1.3496556843715022,1.371576100078521,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Softwood framing,1.25583794222556,1.5165370461180236,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Laminated strand lumber LSL,0.7970082238070975,0.10643235423391857,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Laminated veneer lumber LVL,0.5301156601295969,0.27354930263122934,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Medium density fiberboard MDF,0.41896636063896225,0.6306315199060907,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Heavy timber framing,0.2169669735837156,0.2536228592580102,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Cross laminated timber CLT,0.1580094125237505,0.05551265650822115,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Hardwood,0.11644219931382063,0.048010058506704006,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Wood and composites - other,0.07922137102840338,0.021254300042982267,GWP Intensity - No Filter - Residential: Single-family
+Wood and composites,Glue laminated timber GLT,0.07802326441627992,0.0930947137427811,GWP Intensity - No Filter - Residential: Single-family
