@@ -86,6 +86,25 @@ Run the following notebooks in this order:
 | `carbon_stock_projection_by_wedge_categories.csv`   | Approach 2: GWP emissions              |
 | `combined_approach_1_and_2.xlsx`               | Final harmonized wedge projections       |
 
+
+---
+
+## References and Acknowledgments
+
+This repository builds directly on the data processing and analysis developed in the following foundational repository:
+
+> **Life-Cycle-Lab/wblca-benchmark-v2-material-use-embodied-carbon-intensity**  
+> GitHub: [https://github.com/Life-Cycle-Lab/wblca-benchmark-v2-material-use-embodied-carbon-intensity](https://github.com/Life-Cycle-Lab/wblca-benchmark-v2-material-use-embodied-carbon-intensity)
+
+That repository contributed significantly to this project by providing:
+
+- Cleaned and standardized WBLCA datasets (Benchmark V2)
+- Material use intensity values (kg/m²) across building typologies
+- Harmonized project metadata and typology classification
+- Embodied carbon intensity benchmarks by scope and category
+
+We gratefully acknowledge the original authors and contributors for making this dataset and methodology openly available.
+
 ---
 
 ## Contact
