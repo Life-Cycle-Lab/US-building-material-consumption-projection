@@ -90,10 +90,11 @@ Run the following notebooks in this order:
 
 ## Contact
 
-Milad Zokaei Ashtiani  
-Research Scientist  
-University of Washington 
-📧 [ashtiani@uw.edu](mailto:ashtiani@uw.edu)
+Milad Zokaei Ashtiani
+Research Scientist
+University of Washington
+
+[ashtiani@uw.edu](mailto:ashtiani@uw.edu)
 
 ---
 
