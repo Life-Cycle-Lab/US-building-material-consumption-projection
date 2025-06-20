@@ -1,12 +1,12 @@
-# Material Consumption and Embodied Carbon Forecasting for the US Building Materials (2020–2050)
+# Material Consumption Projections for the US Building Materials (2020–2050)
 
-This repository contains two complementary methodologies, Jupyter Notebook files, and input/output data for modeling and projecting material consumption and embodied carbon emissions in U.S. construction, supporting climate scenario analysis from 2020 to 2050.
+This repository contains two complementary methodologies, Jupyter Notebook files, and input/output data for modeling and projecting material consumption in U.S. construction, supporting climate scenario analysis from 2020 to 2050.
 
 ---
 
 ## Project Context
 
-This modeling effort was developed as part of the Wedge Project, led by the Carbon Leadership Forum and in collaboration with Rocky Mountain Institute (RMI) and the University of Washington's Life Cycle Lab. The goal is to estimate and compare future demand for construction materials and their associated carbon impacts under a range of mitigation strategies. The work incorporates both historical consumption analysis (Approach 1) and a bottom-up, floor-area-based estimations (Approach 2) of building material consumption.
+This modeling effort was developed as part of the Wedge Project, led by the Carbon Leadership Forum and in collaboration with Rocky Mountain Institute (RMI) and the University of Washington's Life Cycle Lab. The goal of the primary project is to estimate and compare future demand for construction materials and their associated carbon impacts under a range of mitigation strategies. The work incorporates both historical consumption analysis (Approach 1) and a bottom-up, floor-area-based estimations (Approach 2) of building material consumption.
 
 ---
 
@@ -83,10 +83,8 @@ Run the following notebooks in this order:
 | File                                            | Description                              |
 |-------------------------------------------------|------------------------------------------|
 | `material_projections_best_fit.csv`            | Approach 1: material forecast             |
-| `approach1_construction_co2.xlsx`              | Approach 1: GHG emissions (A1–A3)         |
 | `material_stock_projection_by_wedge_categories.csv` | Approach 2: material demand           |
-| `carbon_stock_projection_by_wedge_categories.csv`   | Approach 2: GWP emissions              |
-| `combined_approach_1_and_2.xlsx`               | Final harmonized wedge projections       |
+| `combined_approach_1_and_2.xlsx`               | Final harmonized building material consumption projections       |
 
 
 ---
