@@ -18,23 +18,25 @@ Forecasts construction material use based on historical U.S. consumption data (1
 
 **Outputs:**
 - Projected material quantities (total and construction-only)
-- A1–A3 embodied carbon emissions based on national GHG inventories
+
+![approach1](https://github.com/user-attachments/assets/9eba7491-dddd-4d8f-90ff-edd9813ef755)
 
 ### Approach 2 – Material Intensity × Floor Area
 
 Combines:
 - Future building floor area projections (developed by RMI)
 - CLF-derived (as part of the WBLCA Benchmark Study) material use intensity (kg/m²)
-- Embodied carbon intensity data (kgCO2/m²)
 
 **Outputs:**
 - Material stock by building typology, material, and year
-- GWP projections by material and strategy scenario
+
+![approach2](https://github.com/user-attachments/assets/33d905e6-2cec-44fe-bc8f-4bf015b2a9cc)
 
 ### Combined Approach – Reconciliation
 
 Final forecasts reconcile overlaps between the two approaches. Combined outputs emphasize consistency and conservativeness by defaulting to the average estimate across methods.
 
+![approach1and2](https://github.com/user-attachments/assets/311f49f9-0d36-4d62-b5f1-f825b66f3d1f)
 ---
 
 ## Repository Layout
